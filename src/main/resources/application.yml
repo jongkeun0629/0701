@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: memo_app
+  datasource:
+    url: jdbc:postgresql://localhost:5432/memo_app
+    username: memo_app
+    password: password
